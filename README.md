@@ -21,13 +21,3 @@ This repository contains Java programs demonstrating core concepts from Unit 3, 
 - [cite_start]**Concepts**: Creating independent paths of execution by extending the `Thread` class[cite: 770, 778].
 - [cite_start]**Thread Control**: Using methods like `sleep()` to pause execution and `join()` to coordinate between threads[cite: 799, 800].
 
-## 🛠️ How to Run
-Since these programs are designed for a single-file execution:
-1. Copy the code from any `.java` file in this repository.
-2. Paste it into an online compiler like [OnlineGDB](https://www.onlinegdb.com/online_java_compiler).
-3. Ensure the class name containing the `main` method is named `Main` if required by the compiler.
-4. Click **Run**.
-
-## 📝 Key Notes from Study
-- [cite_start]**Checked vs Unchecked**: Checked exceptions must be declared or handled at compile-time, while unchecked exceptions are typically programming errors[cite: 1141, 1174].
-- [cite_start]**Thread Life Cycle**: Threads move through states: New → Runnable → Running → Blocked/Waiting → Terminated[cite: 791, 795].
